@@ -3,7 +3,7 @@
     height: 210px;
     width: 434px;
     background-size: 100%;
-    background-image: url(img/1.png);
+    background-image: url(1.png);
 }
 p{
     font-size: 18px;
@@ -13,33 +13,33 @@ p{
     height: 224px;
     width: 363px;
     background-size: 100%;
-    background-image: url(img/2.png);
+    background-image: url(2.png);
 }
 .div3{
     display: inline-block; 
     height: 300px;
     width: 382px;
     background-size: 100%;
-    background-image: url(img/3.png);
+    background-image: url(3.png);
 }
 .div4{
     display: inline-block; 
     height: 258px;
     width: 420px;
     background-size: 100%;
-    background-image: url(img/4.png);
+    background-image: url(4.png);
 }
 .div5{
     display: inline-block; 
     height: 478px;
     width: 421px;
     background-size: 100%;
-    background-image: url(img/5.png);
+    background-image: url(5.png);
 }
 .div6{
     display: inline-block; 
     height: 481px;
     width: 720px;
     background-size: 100%;
-    background-image: url(img/6.png);
+    background-image: url(6.png);
 }
